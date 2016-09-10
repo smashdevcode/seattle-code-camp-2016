@@ -1,1 +1,2 @@
-# seattle-code-camp-2016
+
+# Seattle Code Camp 2016
